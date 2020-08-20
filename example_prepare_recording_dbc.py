@@ -1,4 +1,8 @@
+#!/usr/bin/env python
+
 # Important: you must be running a kachery-p2p daemon
+# And also install the neuropixels_data_sep_2020 python package
+# See: https://github.com/flatironinstitute/neuropixels-data-sep-2020
 
 import kachery as ka
 import kachery_p2p as kp
