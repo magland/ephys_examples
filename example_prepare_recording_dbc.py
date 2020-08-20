@@ -1,3 +1,5 @@
+# Important: you must be running a kachery-p2p daemon
+
 import kachery as ka
 import kachery_p2p as kp
 import neuropixels_data_sep_2020 as nd
